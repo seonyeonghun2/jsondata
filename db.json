@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "name": "smith",
+            "passwd": "smith1234",
+            "email": "smith@hanul.com",
+            "phone": "SKT0621234567"
+        },
+        {
+            "id": 2,
+            "name": "jack",
+            "passwd": "jack1234",
+            "email": "jack@hanul.com",
+            "phone": "SKT0621234567"
+        },
+        {
+            "id": 3,
+            "name": "sujan",
+            "passwd": "sujan1234",
+            "email": "sujan@hanul.com",
+            "phone": "SKT0621234567"
+        }
+    ]
+}
