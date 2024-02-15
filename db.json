@@ -4,22 +4,22 @@
             "id": 1,
             "name": "smith",
             "passwd": "smith1234",
-            "email": "smith@hanul.com",
-            "phone": "SKT0621234567"
+            "email": "smith@naver.com",
+            "phone": "SKT01011112222"
         },
         {
             "id": 2,
             "name": "jack",
             "passwd": "jack1234",
-            "email": "jack@hanul.com",
-            "phone": "SKT0621234567"
+            "email": "jack@daum.net",
+            "phone": "KT01022223333"
         },
         {
             "id": 3,
             "name": "sujan",
             "passwd": "sujan1234",
             "email": "sujan@hanul.com",
-            "phone": "SKT0621234567"
+            "phone": "LG01033334444"
         }
     ]
 }
